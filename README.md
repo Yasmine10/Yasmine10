@@ -2,7 +2,7 @@
 - 🎓 Bachelor Applied Computer Science - specialisation Software Engineering
 - 🖥 Frontend developer
 - 👀 I’m interested in everything about frontend development.
-- 🌱 Currently working on improving my css skills, mastering sass/scss and learning about accessibility.
+- 🌱 Currently learning ReactJs, accessibility and animations.
 - 📫 How to reach me: yasminedewolf@hotmail.com
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
